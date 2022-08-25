@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Программа принимает на вход число и показывает, четное оно или нечётное
 
 namespace HomeTasks_KisEA
 {

@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Программа принимает на ввод число N и выводит все четные числа от 1 до N
 
 namespace HomeTasks_KisEA
 {

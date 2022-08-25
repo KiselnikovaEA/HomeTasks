@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Программа считывает 2 числа и выдает из них наибольшее
 
 namespace HomeTasks_KisEA
 {

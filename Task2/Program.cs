@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Программа принимает на вход три числа и выдает наибольшее из них
 
 namespace HomeTasks_KisEA
 {
